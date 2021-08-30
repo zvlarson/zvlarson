@@ -1,10 +1,10 @@
-### Hi there 👋
+### Welcome 👋
 [![zvlarson's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvlarson&show_icons=true&theme=algolia)](https://github.com/zvlarson)
 [![zvlarson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zvlarson&layout=compact&theme=algolia)](https://github.com/zvlarson)
 
-**zvlarson/zvlarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **zvlarson/zvlarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->

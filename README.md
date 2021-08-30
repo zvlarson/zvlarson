@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![zvlarson's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvlarson&show_icons=true&theme=algolia)](https://github.com/zvlarson)
+[![zvlarson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zvlarson&layout=compact&theme=algolia)](https://github.com/zvlarson)
 
 **zvlarson/zvlarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
